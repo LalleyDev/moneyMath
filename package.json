@@ -1,0 +1,24 @@
+{
+  "name": "moneymath",
+  "version": "1.0.0",
+  "description": "This will be a budget application built in election with the goal of decreasing my monthly budget time and allow me to share my workflow with friends.",
+  "homepage": "https://github.com/LalleyDev/moneyMath#readme",
+  "bugs": {
+    "url": "https://github.com/LalleyDev/moneyMath/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LalleyDev/moneyMath.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^38.0.0"
+  }
+}
