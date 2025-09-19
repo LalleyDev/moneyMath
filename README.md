@@ -19,3 +19,34 @@ Once finished the plan is to make this into a fully packaged application so I ca
 
 ## Contributing
 Any recommendations are more than welcome as I am trying to learn.
+
+## Recommended IDE Setup
+
+- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) + [Svelte](https://marketplace.visualstudio.com/items?itemName=svelte.svelte-vscode)
+
+## Project Setup
+
+### Install
+
+```bash
+$ npm install
+```
+
+### Development
+
+```bash
+$ npm run dev
+```
+
+### Build
+
+```bash
+# For windows
+$ npm run build:win
+
+# For macOS
+$ npm run build:mac
+
+# For Linux
+$ npm run build:linux
+```
